@@ -32,7 +32,7 @@ Detalle_Pedido: id_pedido, isbn, cantidad, precio_unitario
 Pago: id_pago, metodo_pago, monto, fecha_pago, id_pedido
 
 Parte 2: Diagrama Conceptual de Entidad-Relació
-![tabla1](img/2.png)
+![tabla1](img/2.jpeg)
 
 Parte 3: Diagrama UML E-R
-![tabla1](img/3.png)
+![tabla1](img/3.jpeg)
