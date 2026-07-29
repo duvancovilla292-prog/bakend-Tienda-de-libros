@@ -28,5 +28,11 @@ Editorial: id_editorial, nombre_editorial
 Categoria: id_categoria, nombre_categoria
 Libro: isbn, titulo, fecha_publicacion, precio, stock, id_autor, id_editorial, id_categoria
 Pedido: id_pedido, fecha_pedido, id_cliente
-Detalle_Pedido id_pedido, isbn, cantidad, precio_unitario
-Pago id_pago, metodo_pago, monto, fecha_pago, id_pedido
+Detalle_Pedido: id_pedido, isbn, cantidad, precio_unitario
+Pago: id_pago, metodo_pago, monto, fecha_pago, id_pedido
+
+Parte 2: Diagrama Conceptual de Entidad-Relació
+![tabla1](img/2.png)
+
+Parte 3: Diagrama UML E-R
+![tabla1](img/3.png)
